@@ -40,7 +40,7 @@ class HomeController: UICollectionViewController {
         
     }
     func playVideo() {
-        videoPlayer.showVideoPlayer()
+        videoPlayer.showVideoPlayerWithUrl(url: "")
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
