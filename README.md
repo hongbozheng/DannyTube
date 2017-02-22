@@ -1,2 +1,3 @@
 # DannyTube
-This is a self learning project, taking example by YouTube.
+This is a self learning project, refer to YouTube.
+![gif](https://github.com/hongbozheng/DannyTube/edit/master/DannyTube/DannyTube.gif)
